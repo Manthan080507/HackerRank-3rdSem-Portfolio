@@ -3,8 +3,7 @@
 ## Student Info
 - **Name:** Manthan
 - **Roll Number:** B25CS0311
-- **HackerRank Profile:** [https://www.hackerrank.com/profile/manthanprabhu08](https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME)
-
+- **HackerRank Profile:** https://www.hackerrank.com/profile/manthanprabhu08
 ## Mandatory HackerRank Problem Set & Complexity Analysis
 
 | # | Problem Name | Topic / Category | Key Concept Evaluated | Time Complexity | Space Complexity |
